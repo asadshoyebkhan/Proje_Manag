@@ -3,8 +3,11 @@
 ## Demo Video
 
 Here's a video demonstrating how the project works: 
+[![Demo Video](https://img.youtube.com/vi/X20v25QpNFo/0.jpg)](https://www.youtube.com/watch?v=X20v25QpNFo)
 
 [![Demo Video](https://img.youtube.com/vi/X20v25QpNFo/0.jpg)](https://www.youtube.com/watch?v=X20v25QpNFo)
+<div align="center"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></div>
+
 
 
 
