@@ -4,7 +4,7 @@
 
 Here's a video demonstrating how the project works: 
 
-[![Demo Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=X20v25QpNFo)
+[![Demo Video](https://img.youtube.com/vi/X20v25QpNFo/0.jpg)](https://www.youtube.com/watch?v=X20v25QpNFo)
 
 
 
