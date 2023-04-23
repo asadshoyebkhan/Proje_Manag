@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-Here's a video demonstrating how the project works: 
+Here's a video demonstrating how the project works: <br>
 [![Demo Video](https://img.youtube.com/vi/X20v25QpNFo/0.jpg)](https://www.youtube.com/watch?v=X20v25QpNFo)
 
 
