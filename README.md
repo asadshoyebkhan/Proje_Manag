@@ -1,4 +1,13 @@
 # Proje_Manag
+
+## Demo Video
+
+Here's a video demonstrating how the project works: 
+
+[![Demo Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=X20v25QpNFo)
+
+
+
 <div style="display:flex; justify-content:center; align-items:center;">
   <img src="Screenshot1.jpg" alt="Photo 1" width="250" height="450">
   <img src="Screenshot2.jpg" alt="Photo 1" width="250" height="450">
