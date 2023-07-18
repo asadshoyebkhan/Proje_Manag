@@ -1,10 +1,12 @@
 # Proje_Manag
+Projemang is a project management app that allows users to collaborate on projects.
 
 ## Demo Video
 
 Here's a video demonstrating how the project works: <br>
 [![Demo Video](https://img.youtube.com/vi/X20v25QpNFo/0.jpg)](https://www.youtube.com/watch?v=X20v25QpNFo)
 
+<!-- 
 
 ## Smaple Screenshots
 
@@ -18,8 +20,10 @@ Here's a video demonstrating how the project works: <br>
   <img src="Screenshot7.jpg" alt="Photo 1" width="250" height="450">
 </div>
 
+-->
 
-Projemang is a project management app that allows users to collaborate on projects.
+
+
 
 ## Features
 
