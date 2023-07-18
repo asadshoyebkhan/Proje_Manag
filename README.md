@@ -1,25 +1,23 @@
-# Proje_Manag
+# Project Name
+
+## Description
+
+[Include a brief description of your project here.]
 
 ## Demo Video
 
-Here's a video demonstrating how the project works: <br>
+Here's a video demonstrating how the project works:  
 [![Demo Video](https://img.youtube.com/vi/X20v25QpNFo/0.jpg)](https://www.youtube.com/watch?v=X20v25QpNFo)
 
+## Screenshots
 
-## Smaple Screenshots
-
-<div style="display:flex; justify-content:center; align-items:center;">
-  <img src="Screenshot1.jpg" alt="Photo 1" width="250" height="450">
-  <img src="Screenshot2.jpg" alt="Photo 1" width="250" height="450">
-  <img src="Screenshot3.jpg" alt="Photo 1" width="250" height="450">
-  <img src="Screenshot4.jpg" alt="Photo 1" width="250" height="450">
-  <img src="Screenshot5.jpg" alt="Photo 1" width="250" height="450">
-  <img src="Screenshot6.jpg" alt="Photo 1" width="250" height="450">
-  <img src="Screenshot7.jpg" alt="Photo 1" width="250" height="450">
-</div>
-
-
-Projemang is a project management app that allows users to collaborate on projects.
+![Screenshot 1](Screenshot1.jpg)
+![Screenshot 2](Screenshot2.jpg)
+![Screenshot 3](Screenshot3.jpg)
+![Screenshot 4](Screenshot4.jpg)
+![Screenshot 4](Screenshot5.jpg)
+![Screenshot 4](Screenshot6.jpg)
+![Screenshot 4](Screenshot7.jpg)
 
 ## Features
 
@@ -49,6 +47,11 @@ Projemang is a project management app that allows users to collaborate on projec
 
 Contributions are welcome! If you find any bugs or have feature requests, please open an issue on the GitHub repository.
 
+## License
 
+[Include the license information for your project here, if applicable.]
 
+## Support
+
+[Include contact or support information, if applicable.]
 
